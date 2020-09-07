@@ -1,0 +1,13 @@
+[package]
+name = "roygbiv-backend"
+version = "0.1.0"
+authors = ["Jeffrey Beckman <jefflbeckman>"]
+edition = "2018"
+description = "roygbiv-backend mandatory description"
+repository = "https://github.com/jefflbeckman/roygbiv-backend"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
